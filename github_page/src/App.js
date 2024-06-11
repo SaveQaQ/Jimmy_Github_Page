@@ -7,7 +7,7 @@ function App() {
   return (
       <div className="app.css">
            <Routes>
-               <Route path='/' element={<MainPage/>}/>
+               <Route path='/Jimmy_Github_Page' element={<MainPage/>}/>
             </Routes>
       </div>
    );
