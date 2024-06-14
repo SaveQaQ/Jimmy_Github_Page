@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Jimmy_Github_Page/static/css/main.f855e6bc.css",
-    "main.js": "/Jimmy_Github_Page/static/js/main.ab8c8031.js",
+    "main.css": "/Jimmy_Github_Page/static/css/main.70648914.css",
+    "main.js": "/Jimmy_Github_Page/static/js/main.4c9ea36b.js",
     "static/js/453.2aac3b00.chunk.js": "/Jimmy_Github_Page/static/js/453.2aac3b00.chunk.js",
+    "static/media/chicken_homepage.png": "/Jimmy_Github_Page/static/media/chicken_homepage.b6b075f35f3e78a43f6e.png",
     "index.html": "/Jimmy_Github_Page/index.html",
-    "main.f855e6bc.css.map": "/Jimmy_Github_Page/static/css/main.f855e6bc.css.map",
-    "main.ab8c8031.js.map": "/Jimmy_Github_Page/static/js/main.ab8c8031.js.map",
+    "main.70648914.css.map": "/Jimmy_Github_Page/static/css/main.70648914.css.map",
+    "main.4c9ea36b.js.map": "/Jimmy_Github_Page/static/js/main.4c9ea36b.js.map",
     "453.2aac3b00.chunk.js.map": "/Jimmy_Github_Page/static/js/453.2aac3b00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ab8c8031.js"
+    "static/css/main.70648914.css",
+    "static/js/main.4c9ea36b.js"
   ]
 }
