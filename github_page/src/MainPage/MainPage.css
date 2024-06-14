@@ -1,0 +1,51 @@
+html,body{
+    width: 100%;
+}
+
+.home_page{
+    background: linear-gradient(to bottom, #1C1C1C 40%, #363636 60%, #cdcdcd 100%);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: top;
+}
+
+.header{
+    color: aliceblue;
+    text-align: center;
+}
+
+.fly-chicken-fly {
+    /* Additional specific information for section fly chicken fly */
+}
+
+.chicken_img{
+    margin-top: 10px;
+    max-height: 800px;
+    max-width:  800px;
+}
+
+.content{
+    margin-left: 35px;
+    margin-right: 100px;
+    align-self: flex-start;
+    color: rgb(201, 222, 230);
+}
+
+.title {
+    font-size: 2.5em;
+    margin-left: 30px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 96%;
+    margin-bottom: 0px;
+}
