@@ -2,6 +2,12 @@ html,body{
     width: 100%;
 }
 
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 98%;
+}
+
 .home_page{
     background: linear-gradient(to bottom, #1C1C1C 40%, #363636 60%, #cdcdcd 100%);
     width: 100vw;
@@ -46,6 +52,25 @@ html,body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 96%;
+    width: 100%;
     margin-bottom: 0px;
+}
+
+.section_left{
+    position: absolute;
+    top: 40%;
+    scale: 0.5;
+    margin-left: 10px;
+    z-index: 1;
+    opacity: 0.8;  /*make the icon transparent*/
+}
+
+.section_right{
+    position: absolute;
+    top: 40%;
+    left: 93%;
+    scale: 0.5;
+    z-index: 1;
+    opacity: 0.8;  /*make the icon transparent*/
+    margin-right: 10px;
 }
