@@ -27,10 +27,19 @@ html,body{
     /* Additional specific information for section fly chicken fly */
 }
 
+.image_container{
+    position: relative;
+    width: inherit;
+    overflow: hidden;
+    margin-right: 5%;
+}
+
 .chicken_img{
-    margin-top: 10px;
+    border-top: 10px;
     max-height: 800px;
-    max-width:  800px;
+    position: relative;
+    max-width: 100%; /* Ensure image does not exceed container width */
+    height: auto; /* Maintain aspect ratio */
 }
 
 .content{
@@ -74,3 +83,51 @@ html,body{
     opacity: 0.8;  /*make the icon transparent*/
     margin-right: 10px;
 }
+
+.image_left{
+    position: relative;
+    z-index: 1;
+    opacity: 0.8;  /*make the icon transparent*/
+    transform: translateX(-100%) scale(0.1); /* Initial position and scale */
+    height: 100%;
+}
+
+.image_right{
+    position: relative;
+    z-index: 1;
+    opacity: 0.8;  /*make the icon transparent*/
+    transform: translateX(100%) scale(0.1); /* Initial position and scale */
+    height: 100%;
+}
+
+.bluring_left{
+    height: 100%;
+    width: 10%;
+    position: absolute;
+    max-height: 100%; /* Ensure image does not exceed container width */
+    z-index: 1; /*make it able to be hover */
+    /* opacity: 0.6; 
+    background: linear-gradient(to right,#1C1C1C 40%, #363636 60%, #cdcdcd 100%); */
+}
+
+.bluring_right{
+    height: 100%;
+    width: 10%;
+    position: absolute;
+    right: 0%;
+    max-height: 100%; /* Ensure image does not exceed container width */
+    z-index: 1; /*make it able to be hover */
+    /* opacity: 0.6; 
+    background: linear-gradient(to right,#1C1C1C 40%, #363636 60%, #cdcdcd 100%); */
+}
+
+.bluring_left:hover .image_left{
+    transform: translateX(-43%) scale(0.1); /* Move 10px to the left and keep the scale */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+.bluring_right:hover .image_right{
+    transform: translateX(-43%) scale(0.1); /* Move 10px to the left and keep the scale */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+

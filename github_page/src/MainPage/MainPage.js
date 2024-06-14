@@ -1,11 +1,11 @@
 import React from "react";
-import { useNavigate } from 'react-router-dom';
+// import { useNavigate } from 'react-router-dom';
 import chicken_homepage from "./Image/chicken_homepage.png"
 import left_arrow from "./Image/left_arrow.png"
 import right_arrow from "./Image/right_arrow.png"
 import "./MainPage.css"
 const MainPage = () =>{
-    const navigate = useNavigate();
+    // const navigate = useNavigate();
 
     const click = (direction) =>{
        
@@ -27,7 +27,15 @@ const MainPage = () =>{
                             <p>Itch.io: <a href="https://saveqaq.itch.io/gold-release" className="content" >Click here to play online</a></p>
                             <p>Github: <a href="https://github.com/Project250-SkyForm/Fly-Chicken-Fly" className="content" >Click here to view github repository</a></p>
                         </div>
-                        <img src={chicken_homepage} alt="error to display" className="chicken_img"></img>
+                        <div className="image_container">
+                            <div className="bluring_left">
+                                <img src={left_arrow} alt="left arrow" className="image_left" onClick={click()}></img>
+                            </div>
+                            <div className="bluring_right">
+                                <img src={right_arrow} alt="right arrow" className="image_right" onClick={click()}></img>
+                            </div>
+                            <img src={chicken_homepage} alt="error to display" className="chicken_img"></img>
+                        </div>
                     </div>
                 </div>
                 <img src={right_arrow} alt="right arrow" className="section_right" onClick={(click())}></img>
