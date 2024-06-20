@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Jimmy_Github_Page/static/css/main.30b54da9.css",
-    "main.js": "/Jimmy_Github_Page/static/js/main.6b673c9a.js",
+    "main.css": "/Jimmy_Github_Page/static/css/main.8325cd10.css",
+    "main.js": "/Jimmy_Github_Page/static/js/main.abb4c98e.js",
     "static/js/453.2aac3b00.chunk.js": "/Jimmy_Github_Page/static/js/453.2aac3b00.chunk.js",
     "static/media/chicken_homepage.png": "/Jimmy_Github_Page/static/media/chicken_homepage.b6b075f35f3e78a43f6e.png",
+    "static/media/cutscene.png": "/Jimmy_Github_Page/static/media/cutscene.1e154b3212cfd1f18c9d.png",
+    "static/media/rank_score.png": "/Jimmy_Github_Page/static/media/rank_score.a87e133e71d2bc686539.png",
+    "static/media/game1.png": "/Jimmy_Github_Page/static/media/game1.aa0153a74a2072c54e7d.png",
+    "static/media/tutorial.png": "/Jimmy_Github_Page/static/media/tutorial.b77882bebc23060f3d4a.png",
     "index.html": "/Jimmy_Github_Page/index.html",
-    "main.30b54da9.css.map": "/Jimmy_Github_Page/static/css/main.30b54da9.css.map",
-    "main.6b673c9a.js.map": "/Jimmy_Github_Page/static/js/main.6b673c9a.js.map",
+    "main.8325cd10.css.map": "/Jimmy_Github_Page/static/css/main.8325cd10.css.map",
+    "main.abb4c98e.js.map": "/Jimmy_Github_Page/static/js/main.abb4c98e.js.map",
     "453.2aac3b00.chunk.js.map": "/Jimmy_Github_Page/static/js/453.2aac3b00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30b54da9.css",
-    "static/js/main.6b673c9a.js"
+    "static/css/main.8325cd10.css",
+    "static/js/main.abb4c98e.js"
   ]
 }
