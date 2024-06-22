@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Jimmy_Github_Page/static/css/main.8325cd10.css",
-    "main.js": "/Jimmy_Github_Page/static/js/main.97f12f12.js",
+    "main.css": "/Jimmy_Github_Page/static/css/main.97ef9d20.css",
+    "main.js": "/Jimmy_Github_Page/static/js/main.545c9992.js",
     "static/js/453.2aac3b00.chunk.js": "/Jimmy_Github_Page/static/js/453.2aac3b00.chunk.js",
     "static/media/chicken_homepage.png": "/Jimmy_Github_Page/static/media/chicken_homepage.b6b075f35f3e78a43f6e.png",
     "static/media/EventEase5.jpg": "/Jimmy_Github_Page/static/media/EventEase5.133b25a41ffe88a40073.jpg",
@@ -14,12 +14,12 @@
     "static/media/EventEase1.jpg": "/Jimmy_Github_Page/static/media/EventEase1.4cd4c31febe31ca83418.jpg",
     "static/media/tutorial.png": "/Jimmy_Github_Page/static/media/tutorial.b77882bebc23060f3d4a.png",
     "index.html": "/Jimmy_Github_Page/index.html",
-    "main.8325cd10.css.map": "/Jimmy_Github_Page/static/css/main.8325cd10.css.map",
-    "main.97f12f12.js.map": "/Jimmy_Github_Page/static/js/main.97f12f12.js.map",
+    "main.97ef9d20.css.map": "/Jimmy_Github_Page/static/css/main.97ef9d20.css.map",
+    "main.545c9992.js.map": "/Jimmy_Github_Page/static/js/main.545c9992.js.map",
     "453.2aac3b00.chunk.js.map": "/Jimmy_Github_Page/static/js/453.2aac3b00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8325cd10.css",
-    "static/js/main.97f12f12.js"
+    "static/css/main.97ef9d20.css",
+    "static/js/main.545c9992.js"
   ]
 }
