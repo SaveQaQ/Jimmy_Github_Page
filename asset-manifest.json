@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/Jimmy_Github_Page/static/css/main.8325cd10.css",
-    "main.js": "/Jimmy_Github_Page/static/js/main.abb4c98e.js",
+    "main.js": "/Jimmy_Github_Page/static/js/main.97f12f12.js",
     "static/js/453.2aac3b00.chunk.js": "/Jimmy_Github_Page/static/js/453.2aac3b00.chunk.js",
     "static/media/chicken_homepage.png": "/Jimmy_Github_Page/static/media/chicken_homepage.b6b075f35f3e78a43f6e.png",
+    "static/media/EventEase5.jpg": "/Jimmy_Github_Page/static/media/EventEase5.133b25a41ffe88a40073.jpg",
+    "static/media/EventEase3.jpg": "/Jimmy_Github_Page/static/media/EventEase3.9c77fbe4a4bc5b869409.jpg",
     "static/media/cutscene.png": "/Jimmy_Github_Page/static/media/cutscene.1e154b3212cfd1f18c9d.png",
+    "static/media/EventEase2.jpg": "/Jimmy_Github_Page/static/media/EventEase2.565e7a05b69dea4e17d0.jpg",
     "static/media/rank_score.png": "/Jimmy_Github_Page/static/media/rank_score.a87e133e71d2bc686539.png",
     "static/media/game1.png": "/Jimmy_Github_Page/static/media/game1.aa0153a74a2072c54e7d.png",
+    "static/media/EventEase4.jpg": "/Jimmy_Github_Page/static/media/EventEase4.55d17c179a3174c53459.jpg",
+    "static/media/EventEase1.jpg": "/Jimmy_Github_Page/static/media/EventEase1.4cd4c31febe31ca83418.jpg",
     "static/media/tutorial.png": "/Jimmy_Github_Page/static/media/tutorial.b77882bebc23060f3d4a.png",
     "index.html": "/Jimmy_Github_Page/index.html",
     "main.8325cd10.css.map": "/Jimmy_Github_Page/static/css/main.8325cd10.css.map",
-    "main.abb4c98e.js.map": "/Jimmy_Github_Page/static/js/main.abb4c98e.js.map",
+    "main.97f12f12.js.map": "/Jimmy_Github_Page/static/js/main.97f12f12.js.map",
     "453.2aac3b00.chunk.js.map": "/Jimmy_Github_Page/static/js/453.2aac3b00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8325cd10.css",
-    "static/js/main.abb4c98e.js"
+    "static/js/main.97f12f12.js"
   ]
 }
