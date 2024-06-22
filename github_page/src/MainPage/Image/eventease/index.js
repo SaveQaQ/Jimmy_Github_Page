@@ -1,0 +1,5 @@
+export const img1 = require("./EventEase1.jpg") 
+export const img2 = require("./EventEase2.jpg") 
+export const img3 = require("./EventEase3.jpg") 
+export const img4 = require("./EventEase4.jpg") 
+export const img5 = require("./EventEase5.jpg") 

@@ -1,0 +1,5 @@
+export const Homepage = require("./chicken_homepage.png") 
+export const Cutscene = require("./cutscene.png")
+export const Gaming = require("./game1.png")
+export const Rank = require("./rank_score.png")
+export const Tutorial = require("./tutorial.png")
